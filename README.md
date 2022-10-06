@@ -76,7 +76,7 @@ Here is a link to the repo <a href="https://github.com/WhaleAnchor/E-Commerce-Ba
    ```sh
    Make sure to add your MySQL password to your .env file within the root folder.
    ```
-2. Make sure to run the schema.sql and seeds! Open your terminal and run:
+2. Run the schema.sql, seeds and node.js! Open your terminal and run:
    ```sh
    mysql -u root -p
    ```
@@ -84,6 +84,7 @@ Here is a link to the repo <a href="https://github.com/WhaleAnchor/E-Commerce-Ba
    ```sh
    source db/schema.sql
    quit
+   npm i
    npm run seed
    npm start
    ```
