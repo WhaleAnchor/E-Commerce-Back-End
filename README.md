@@ -74,7 +74,7 @@ Here is a link to the repo <a href="https://github.com/WhaleAnchor/E-Commerce-Ba
 
 1. Check your .env file!
    ```sh
-   Make sure to add your MySQL password to your .env file within the root folder.
+   Make sure to add .env file to the root folder.
    ```
 2. Run the schema.sql, seeds and node.js! Open your terminal and run:
    ```sh
