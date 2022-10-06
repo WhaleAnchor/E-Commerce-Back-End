@@ -26,14 +26,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![E-Commerce Back End](/assets/screenshot1.png "Image of application on Insomnia") 
+![E-Commerce Back End](/images/screenshot1.png "Image of application on Insomnia") 
 
 Using Express.js and Sequelize to interact with a MySQL database, this application runs the back end for an e-commerce site. 
 * The user can utilize this application to compete with other e-commerce companies!
 * Categories, Products, and Tags help create clear structure for the website's backend. 
 * The user can easily view the data for each category, product, and/or tag.
 * Additionally, the user can easily create, change, or even delete them.
-![E-Commerce Back End](/assets/screenshot2.png "More images of the application") 
+![E-Commerce Back End](/images/screenshot2.png "More images of the application") 
+
+<a href="https://drive.google.com/file/d/15TLuvIp5VH9gJSuehKIkxi6HF6S_69K-/view">Video demonstration! </a>
 
 Here is a link to the repo <a href="https://github.com/WhaleAnchor/E-Commerce-Back-End">github.com/WhaleAnchor/E-Commerce-Back-End</a>
 
